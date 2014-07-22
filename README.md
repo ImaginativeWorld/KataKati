@@ -5,6 +5,7 @@ KataKati (*Tic-tac-toe*) - A popular game in Bangladesh, even in the World :)
 
 This project is made for experimenting C# and AI programming for beginner programmers.
 
+**For more info and download latest version go here:** http://imaginativeworld.org/products/katakati 
 
 License
 -------
