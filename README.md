@@ -21,5 +21,6 @@ Just Open the file "**KataKati.sln**" and then build and enjoy.. :)
 
 Author
 ------
-**E-mail:** shohag_iw@yahoo.com
-**Website:** http://shohag.imaginativeworld.org
+
+ - **E-mail:** shohag_iw@yahoo.com
+ - **Website:** http://shohag.imaginativeworld.org
