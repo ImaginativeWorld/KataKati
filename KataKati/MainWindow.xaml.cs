@@ -153,10 +153,10 @@ namespace KataKuti
                     switch (rndNbr)
                     {
                         case 1:
-                            strText = "ক্যামনে ক্যামনে জিততা গেছছ্‌..! :/";
+                            strText = "ক্যামনে ক্যামনে জিত্‌তা গেছছ্‌..! :/";
                             break;
                         case 2:
-                            strText = "গাঘারাও আজকাল খেলা পারে..! O.o";
+                            strText = "গাধারাও আজকাল খেলা পারে..! O.o";
                             break;
                         case 3:
                             strText = "আপনি জিতছেন..! :(";
@@ -1246,8 +1246,10 @@ namespace KataKuti
 
         private void gHelp_MouseLeftButtonUp(object sender, MouseButtonEventArgs e)
         {
+            Version version = System.Reflection.Assembly.GetExecutingAssembly().GetName().Version;
+
             MessageBox.Show("KataKati (Tic-tac-toe)"
-                + Environment.NewLine + "v1.0"
+                + Environment.NewLine + "Version " + version
                 + Environment.NewLine
                 + Environment.NewLine + "AI design, Graphics and Coding:"
                 + Environment.NewLine + "    Md. Mahmudul Hasan Shohag"

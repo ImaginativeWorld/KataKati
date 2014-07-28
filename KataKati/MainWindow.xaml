@@ -13,7 +13,7 @@
             <Button x:Name="btnReset" Content="পুনরারম্ভ" Margin="0" Click="btnReset_Click" Height="30" Width="80" VerticalAlignment="Center" HorizontalAlignment="Center" FontFamily="kalpurush" FontSize="16" BorderBrush="#FFDDDDDD" Background="White" ToolTip="Restart"/>
         </Grid>
         <Grid x:Name="gHeaderBar" Margin="0,0,80,0" VerticalAlignment="Top" Height="40" Background="White" MouseLeftButtonDown="Grid_MouseLeftButtonDown_1">
-            <Label x:Name="lblAppName" Content="কাটাকাটি ১.০" FontFamily="Kalpurush" FontSize="24" HorizontalAlignment="Center" Background="{x:Null}" Foreground="#FF404040"/>
+            <Label x:Name="lblAppName" Content="কাটাকাটি ১.১" FontFamily="Kalpurush" FontSize="24" HorizontalAlignment="Center" Background="{x:Null}" Foreground="#FF404040"/>
         </Grid>
         <Grid x:Name="gBody" Margin="0,40,0,85" Background="#FFF6F6F6">
             <Rectangle HorizontalAlignment="Left" Height="99" Margin="25,22,0,0" VerticalAlignment="Top" Width="99" StrokeThickness="0" Fill="White" d:IsLocked="True">
