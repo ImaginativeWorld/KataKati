@@ -25,3 +25,9 @@ Author
 
  - **E-mail:** shohag_iw@yahoo.com
  - **Website:** http://shohag.imaginativeworld.org
+
+History
+-------
+
+ - **1.0** - *24 jul 2014* - 1st Release
+ - **1.1** - *28 jul 2014* - Fixed some bugs
